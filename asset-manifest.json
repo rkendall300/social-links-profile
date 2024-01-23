@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/social-links-profile/static/css/main.8640b79b.css",
+    "main.js": "/social-links-profile/static/js/main.4ff5073b.js",
+    "static/media/Inter-Bold.ttf": "/social-links-profile/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/Inter-SemiBold.ttf": "/social-links-profile/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
+    "static/media/Inter-Regular.ttf": "/social-links-profile/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "index.html": "/social-links-profile/index.html",
+    "main.8640b79b.css.map": "/social-links-profile/static/css/main.8640b79b.css.map",
+    "main.4ff5073b.js.map": "/social-links-profile/static/js/main.4ff5073b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8640b79b.css",
+    "static/js/main.4ff5073b.js"
+  ]
+}
